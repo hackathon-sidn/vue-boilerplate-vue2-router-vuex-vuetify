@@ -1,5 +1,8 @@
 # vue-boilerplate-vue2-router-vuex-vuetify
 
+Find the deployed Vue App [here on GitHub Pages](https://nikolockenvitz.github.io/vue-boilerplate-vue2-router-vuex-vuetify).
+Feel free to copy this boilerplate code (you may need to update the public path in `vue.config.js`).
+
 ## Project setup
 ```
 npm install
